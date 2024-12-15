@@ -1,5 +1,5 @@
 # GDG_PROJECT
-<h3>**#Assignment1**</h3>
+<h3><b>#Assignment1</b></h3>
 <ul>
 <li>GDG_TASK_HARSH_VERMA_230452 (1).ipynb is the python code file which contains all the tasks including bonus task.
 <li>Final Dataset is the dataframe required in task 1 with all parameters except lower and upper circuit.
